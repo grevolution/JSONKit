@@ -7,5 +7,5 @@ Pod::Spec.new do |s|
   s.author   = 'Shan Ul Haq'
   s.source   = { :git => 'https://github.com/grevolution/JSONKit.git', :commit => 'f1c5c4b4a3b9965427568383c03dff229ac38d1f' }
 
-  s.source_files   = 'JSONKit.h, JSONKit.m'
+  s.source_files   = 'JSONKit.{h,m}'
 end
